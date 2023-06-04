@@ -2,7 +2,7 @@
 
 I'm currently a student at the University of Tokyo.
 
-More Profile with  [here](https://sites.google.com/socsim.org/izumi-lab/members/student/ryotaro-kobayashi?authuser=0).
+More Profile with  [here](https://www.sys.t.u-tokyo.ac.jp/en/admissions/studentvoices/ryotaro-kobayashi/).
 
 Things I code with  
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=Python&logoColor=white)

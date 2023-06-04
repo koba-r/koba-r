@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a student at the University of Tokyo.
+I'm currently a student at the University of Tokyo.
 
 Things I code with  
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=Python&logoColor=white)

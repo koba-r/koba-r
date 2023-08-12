@@ -2,8 +2,6 @@
 
 I'm currently a student at the University of Tokyo.
 
-More profile with  [here](https://www.sys.t.u-tokyo.ac.jp/en/admissions/studentvoices/ryotaro-kobayashi/).
-
 Things I code with  
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FFFFFF?&logo=OpenJDK&style=flat&logoColor=black)

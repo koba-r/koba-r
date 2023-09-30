@@ -10,4 +10,3 @@ Things I code with
 ![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 ![AmazonAWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-aws&style=flat)
 ![Ansible](https://img.shields.io/badge/-Ansible-FF0000.svg?logo=ansible&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat)
